@@ -1,0 +1,93 @@
+.square{
+height:200px;
+width:200px;
+}
+
+.flex-container {
+  display: flex;
+  width: 100%;
+}
+
+.flex-container > div {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+}
+.rectangle-1 {
+  width: 200px;
+  height: 200px;
+  background-color: #373a3c;
+  margin: 42px;
+}
+.Rectangle-28 {
+  width: 200px;
+  height: 200px;
+  background-color: #55595c;
+}
+.Rectangle-17 {
+  width: 200px;
+  height: 200px;
+  background-color: #777777;
+}
+.Rectangle-2 {
+  width: 200px;
+  height: 200px;
+  background-color: #818a91;
+}
+.Rectangle-23 {
+  width: 200px;
+  height: 200px;
+  background-color: #dddddd;
+}
+.Rectangle-19 {
+  width: 200px;
+  height: 200px;
+  background-color: var(--silver);
+}
+.Rectangle-8 {
+  width: 200px;
+  height: 200px;
+  background-color:  #1c7cd5;
+}
+.Rectangle-13 {
+  width: 200px;
+  height: 200px;
+  background-color: #5cb85c;
+}
+.Rectangle-14 {
+  width: 200px;
+  height: 200px;
+  background-color: #56c0e0;
+}
+.Rectangle-15 {
+  width: 200px;
+  height: 200px;
+  background-color: #f0ad4e;
+}
+.Rectangle-16 {
+  width: 200px;
+  height: 200px;
+  background-color: #d9534f;
+}
+.Rectangle-43 {
+  width: 200px;
+  height: 200px;
+  background-color: #dcedf6;
+}
+.Rectangle-44 {
+  width: 200px;
+  height: 200px;
+  background-color: #e2eed8;
+}
+.Rectangle-46 {
+  width: 200px;
+  height: 200px;
+  background-color: #fcf7e4;
+}
+.Rectangle-47 {
+  width: 200px;
+  height: 200px;
+  background-color: #efdfdf;
+}
