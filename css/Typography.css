@@ -1,3 +1,7 @@
+body {
+    font-family: 'Roboto';font-size: 22px;
+}
+
 .Typography{
   width:1600px;
   height: 1150px;
@@ -41,15 +45,11 @@
   height: 163px;
   font-family: HelveticaNeue;
   font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
   line-height: 1.5;
-  letter-spacing: normal;
   text-align: left;
   color: #373a3c;
-  margin-left: 367px;
-  margin-top: -72px;
+  margin-left: 488px;
+  margin-top: -68px;
 }
 .Twiter-Inc{
   font-weight: bold;
@@ -58,8 +58,8 @@
   color: #1c7cd5;
 }
 .display{
-  margin-left: 750px;
-  margin-top: -750px;
+  margin-left: 1021px;
+  margin-top: -1000px;
 }
 .Display-1 {
   width: 395px;
@@ -85,7 +85,39 @@
   font-size: 61px;
   line-height: 1.2;
 }
-.Blackqueto{
+.Blackqueto {
+ width: 623px;
+  height: 58px;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  margin-left: 42px;
+  margin-top: 75px;
+}
+.line {
+
+    border-left: 6px solid silver;
+    height: 118px;
+    margin-left: 1020px;
+    margin-top: 79px;
+
+}
+.someone {
+  width: 290px;
+  height: 23px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: left;
+  color: #818a91;
+  margin-left: 81px;
+  margin-top: 30px;
+}
+.someone {
+  font-style: italic;
+}
+.Blackqueto-1{
  width: 623px;
   height: 58px;
   font-family: HelveticaNeue;
@@ -95,8 +127,41 @@
   font-stretch: normal;
   line-height: 1.5;
   letter-spacing: normal;
-  text-align: left;
+  text-align: right;
   color: #373a3c;
-  margin-left: 786px;
-  margin-top: 75px;
+  margin-left: -658px;
+  margin-top: 139px;
 }
+.hr{
+  width: 21px;
+  margin-left:47px; 
+  margin-top:-10px;
+}
+.line-1 {
+
+    border-left: 6px solid silver;
+    height: 118px;
+    margin-left: 500px;
+    margin-top: 79px;
+
+}
+.someone-1 {
+  width: 290px;
+  height: 23px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: right;
+  color: #818a91;
+  margin-left: -363px;
+  margin-top: 32px;
+}
+.someone-1 {
+  font-style: italic;
+}
+.hr-1{
+  width: 21px;
+  margin-left:-58px; 
+  margin-top:-10px;
+}
+
