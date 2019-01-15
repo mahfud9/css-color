@@ -1,0 +1,50 @@
+
+.col-xs-1 {
+  width: 65px;
+  height: 60px;
+  background-color: #ededed;
+  margin: 30px;
+  text-align: center;
+  padding: 15px;
+  font-size:13px;
+}
+.col-xs-2 {
+  width: 160px;
+  height: 148px;
+  background-color: #ededed;
+  margin: 30px;
+  text-align: center;
+  padding: 55px;
+}
+.col-xs-3 {
+  width: 255px;
+  height: 148px;
+  background-color: #ededed;
+  margin: 30px;
+  text-align: center;
+  padding: 58px
+}
+.col-xs-4 {
+  width: 350px;
+  height: 148px;
+  background-color: #ededed;
+  margin: 30px;
+  text-align: center;
+  padding: 59px;
+}
+.col-xs-6 {
+  width: 540px;
+  height: 148px;
+  background-color: #ededed;
+  margin: 30px;
+  text-align: center;
+  padding: 58px;
+}
+.col-xs-12 {
+  width: 1110px;
+  height: 148px;
+  background-color: #ededed;
+  margin: 30px;
+  text-align: center;
+  padding: 76px;
+}

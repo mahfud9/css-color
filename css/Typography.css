@@ -7,19 +7,68 @@ body {
   height: 1150px;
   background-color: var(--white);
 }
+.heading{
+  display: flex;
+}
 
 
-
-.h1-Bootstrap-heading {
+.h1 {
   width: 422px;
   height: 48px;
   font-family: HelveticaNeue;
   font-size: 40px;
   font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
   line-height: 1.23;
-  letter-spacing: normal;
+  text-align: left;
+  color: #373a3c;
+}
+.h2 {
+  width: 337px;
+  height: 38px;
+  font-family: HelveticaNeue;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 1.22;
+  text-align: left;
+  color: #373a3c;
+}
+.h3 {
+  width: 295px;
+  height: 33px;
+  font-family: HelveticaNeue;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 1.21;
+  text-align: left;
+  color: #373a3c;
+}
+.h4 {
+  width: 253px;
+  height: 28px;
+  font-family: HelveticaNeue;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.21;
+  text-align: left;
+  color: #373a3c;
+}
+.h5 {
+  width: 211px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: left;
+  color: #373a3c;
+}
+.h6 {
+  width: 169px;
+  height: 19px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.19;
   text-align: left;
   color: #373a3c;
 }
@@ -39,6 +88,8 @@ body {
 .ul--circle {
   list-style-type: circle;
   color: #373a3c;
+  margin-left: 45px;
+  margin-top: -22px;
 }
  .Twiter{
   width: 186px;
@@ -48,7 +99,7 @@ body {
   line-height: 1.5;
   text-align: left;
   color: #373a3c;
-  margin-left: 488px;
+  margin-left: 494px;
   margin-top: -68px;
 }
 .Twiter-Inc{
@@ -58,7 +109,7 @@ body {
   color: #1c7cd5;
 }
 .display{
-  margin-left: 1021px;
+  margin-left: 842px;
   margin-top: -1000px;
 }
 .Display-1 {
@@ -88,6 +139,7 @@ body {
 .Blackqueto {
  width: 623px;
   height: 58px;
+  font-family: HelveticaNeue;
   font-size: 20px;
   line-height: 1.5;
   letter-spacing: normal;
@@ -99,8 +151,8 @@ body {
 
     border-left: 6px solid silver;
     height: 118px;
-    margin-left: 1020px;
-    margin-top: 79px;
+    margin-left: 842px;
+    margin-top: 154px;
 
 }
 .someone {
@@ -113,9 +165,6 @@ body {
   color: #818a91;
   margin-left: 81px;
   margin-top: 30px;
-}
-.someone {
-  font-style: italic;
 }
 .Blackqueto-1{
  width: 623px;
@@ -134,15 +183,16 @@ body {
 }
 .hr{
   width: 21px;
+  color: #818a91;
   margin-left:47px; 
   margin-top:-10px;
 }
 .line-1 {
 
-    border-left: 6px solid silver;
-    height: 118px;
-    margin-left: 500px;
-    margin-top: 79px;
+  border-left: 6px solid silver;
+  height: 118px;
+  margin-left: 594px;
+  margin-top: -109px;
 
 }
 .someone-1 {
@@ -156,11 +206,10 @@ body {
   margin-left: -363px;
   margin-top: 32px;
 }
-.someone-1 {
-  font-style: italic;
-}
+
 .hr-1{
   width: 21px;
+  color: #F5F5DC;
   margin-left:-58px; 
   margin-top:-10px;
 }
