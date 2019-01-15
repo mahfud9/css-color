@@ -1,0 +1,50 @@
+.Alert {
+  padding: 20px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  line-height: 1.5;
+  border-radius: 3px;
+  color: #9f4f48;
+  background-color:#efdfdf; 
+}
+
+.Alert1{
+  padding: 20px;
+  background-color: #e2eed8;
+  color: white;
+  border-radius: 3px;
+  color: #4b713d;
+  line-height: 1.5;
+   font-family: HelveticaNeue;
+}
+.Alert2{
+  padding: 20px;
+  background-color: #dcedf6;
+  color: white;
+  border-radius: 3px;
+  color: #3d708d;
+  line-height: 1.5;
+   font-family: HelveticaNeue;
+}
+.Alert3{
+  padding: 20px;
+  background-color: #fcf7e4;
+  color: white;
+  border-radius: 3px;
+  color: #876d40;
+  line-height: 1.5;
+   font-family: HelveticaNeue;
+}
+.closebtn{
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.closebtn:hover{
+ color: #373a3c;
+}

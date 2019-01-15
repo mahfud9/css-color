@@ -1,0 +1,99 @@
+.path-4 {
+  width: 1366px;
+  height: 554px;
+  background-color: #fafafa;
+}
+.path {
+  width: 250px;
+  height: 123px;
+  box-shadow: -5px 0 25px 0 rgba(0, 0, 0, 0.04);
+  background-color: var(--white);
+}
+
+.Guide {
+  width: 76px;
+  height: 19px;
+  font-family: OpenSans;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.36;
+  text-align: left;
+  color: #263238;
+}
+.mahfud {
+  width: 88px;
+  height: 15px;
+  font-family: OpenSans;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.36;
+  text-align: left;
+  color: #9a9a9a;
+}
+.Components {
+  width: 86px;
+  height: 19px;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.36;
+  text-align: left;
+  color: #263238;
+  margin-top: 55px;
+}
+.color {
+  width: 248.7px;
+  height: 30px;
+  background-color: #fafafa;
+  font-size: 22px;
+  color: blue;
+}
+.path1 {
+  width: 250px;
+  height: 400px;
+  box-shadow: -5px 0 25px 0 rgba(0, 0, 0, 0.04);
+  background-color: var(--white);
+}
+.path3 {
+  width: 925px;
+  height: 479px;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.05);
+  background-color: var(--white);
+  margin-left: 285px;
+  margin-top: -529px;
+
+}
+.Typography {
+  width: 71px;
+  height: 18px;
+  font-family: OpenSans;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5c5c5c;
+}
+.button {
+  width: 41px;
+  height: 18px;
+  font-family: OpenSans;
+  font-size: 19px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5c5c5c;
+  margin-top: 10px;
+}
+.Card {
+  width: 219px;
+  height: 40px;
+  background-color: var(--white);
+  margin-top: 12px;
+}
