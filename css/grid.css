@@ -1,50 +1,102 @@
 
-.col-xs-1 {
+.row{
+	flex-wrap: wrap;
+	margin-right: 85px;
+	margin-left: 85px;
+}
+.col-1 {
+  width: 8.3333333%;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  -ms-flex:0 0 8.333333%;
+  flex: 0 0 8.333333%;
+  max-width: 8.333333%;
+}
+.text{
+	font-size: 14px;
+	line-height: 1.14;
+	text-align: center;
+	color: #707070;
+	padding: 17px;
+}
+.box{
+	background:#ededed;
+	width: 100%;
+	margin-top: 15px; 
+}
+.col-2 {
+  width: 16.666667%;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  -ms-flex:0 0 16.666667%;
+  flex:0 0 16.666667%;
+  max-width: 16.666667%;
+}
+.col-3 {
+ width: 25%;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  -ms-flex:0 0 25%;
+  flex: 0 0 25%;
+  max-width:25%;
+}
+.col-4 {
+ width: 33.3333333%;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  -ms-flex:0 0  33.3333333%;
+  flex: 0 0  33.3333333%;
+  max-width:  33.3333333%;
+}
+.col-5 {
+ width: 50%;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  -ms-flex:0 0 50%;
+  flex: 0 0 50%;
+  max-width:50%;
+}
+.col-6 {
+ width: 100%;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  -ms-flex:0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.box--1 {
   width: 65px;
   height: 60px;
   background-color: #ededed;
-  margin: 30px;
-  text-align: center;
-  padding: 15px;
-  font-size:13px;
 }
-.col-xs-2 {
+.box--2 {
   width: 160px;
   height: 148px;
   background-color: #ededed;
-  margin: 30px;
-  text-align: center;
-  padding: 55px;
 }
-.col-xs-3 {
+.box--3 {
   width: 255px;
   height: 148px;
   background-color: #ededed;
-  margin: 30px;
-  text-align: center;
-  padding: 58px
 }
-.col-xs-4 {
+.box--4 {
   width: 350px;
   height: 148px;
   background-color: #ededed;
-  margin: 30px;
-  text-align: center;
-  padding: 59px;
 }
-.col-xs-6 {
+.box--5 {
   width: 540px;
   height: 148px;
   background-color: #ededed;
-  margin: 30px;
-  text-align: center;
-  padding: 58px;
 }
-.col-xs-12 {
+.box--6 {
   width: 1110px;
   height: 148px;
   background-color: #ededed;
-  margin: 30px;
-  text-align: center;
-  padding: 76px;
 }

@@ -7,33 +7,35 @@
   width: 250px;
   height: 123px;
   box-shadow: -5px 0 25px 0 rgba(0, 0, 0, 0.04);
-  background-color: var(--white);
+  background-color: #ffffff;
 }
 
 .Guide {
   width: 76px;
   height: 19px;
-  font-family: OpenSans;
-  font-size: 15px;
+  font-family:Roboto;
+  font-size: 14px;
   font-weight: 600;
   line-height: 1.36;
   text-align: left;
   color: #263238;
+  margin-left: 10px;
 }
 .mahfud {
   width: 88px;
   height: 15px;
-  font-family: OpenSans;
+  font-family: Roboto;
   font-size: 11px;
   font-weight: 600;
   line-height: 1.36;
   text-align: left;
   color: #9a9a9a;
+  margin-left: 10px;
 }
 .Components {
   width: 86px;
   height: 19px;
-  font-family: OpenSans;
+  font-family:Roboto;
   font-size: 14px;
   font-weight: 600;
   font-style: normal;
@@ -42,12 +44,13 @@
   letter-spacing: normal;
   text-align: left;
   color: #263238;
-  margin-top: 44px
+  margin-top: 60px;
+  margin-left: 10px;
 }
 .color {
   width: 33px;
   height: 18px;
-  font-family: OpenSans;
+  font-family: Roboto;
   font-size: 13px;
   font-weight: 600;
   font-style: normal;
@@ -60,24 +63,24 @@
 }
 .path1 {
   width: 250px;
-  height: 400px;
+  height: 366px;
   box-shadow: -5px 0 25px 0 rgba(0, 0, 0, 0.04);
-  background-color: var(--white);
+  background-color: #ffffff;
 }
 .path3 {
   width: 925px;
-  height: 479px;
+  height: 496px;
   border-radius: 4px;
   box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.05);
-  background-color: var(--white);
-  margin-left: 285px;
-  margin-top: -529px;
+  background-color: #ffffff;
+  margin-left: 293px;
+  margin-top: -496px;
 
 }
 .Typography {
   width: 71px;
   height: 18px;
-  font-family: OpenSans;
+  font-family: Roboto;
   font-size: 13px;
   font-weight: normal;
   font-style: normal;
@@ -86,11 +89,12 @@
   letter-spacing: normal;
   text-align: left;
   color: #5c5c5c;
+  margin-left: 10px;
 }
 .button {
   width: 41px;
   height: 18px;
-  font-family: OpenSans;
+  font-family:Roboto;
   font-size: 13px;
   font-weight: normal;
   font-style: normal;
@@ -99,11 +103,12 @@
   letter-spacing: normal;
   text-align: left;
   color: #5c5c5c;
+  margin-left: 10px;
 }
 .Card {
   width: 28px;
   height: 18px;
-  font-family: OpenSans;
+  font-family: Roboto;
   font-size: 13px;
   font-weight: normal;
   font-style: normal;
@@ -112,4 +117,5 @@
   letter-spacing: normal;
   text-align: left;
   color: #5c5c5c;
+  margin-left: 10px;
 }

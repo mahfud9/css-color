@@ -1,0 +1,71 @@
+
+.jumbotron {
+  width: 906px;
+  height: 596px;
+  background-color: var(--white);
+   margin-top: 56px;
+  margin-left: 87px;
+  padding-left: 48px;
+  padding-right: 35px;
+}
+.Rectangle{
+	width: 772px;
+	height: 482px;
+	border-radius: 4px;
+	background-color:#eceeef;
+	 margin-top: 56px;
+  margin-left: 87px;
+  padding-left: 48px;
+  padding-right: 35px;
+}
+.button {
+  width: 151px;
+  height: 54px;
+  border-radius: 4px;
+  background-color: #1c7cd5;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.Hello-world {
+  width: 440px;
+  height: 92px;
+  font-family:Roboto;
+  font-size: 79px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #373a3c;
+}
+.paragraph{
+  width: 702px;
+  height: 55px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #373a3c;
+}
+.paragraph1{
+  width: 663px;
+  height: 45px;
+  font-family:Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #373a3c;
+}
+.Line-97 {
+  width: 702px;
+  height: 0;
+}
