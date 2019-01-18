@@ -1,4 +1,16 @@
 .Alert {
+  width: 515px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5c5c5c;
+  margin-left: 10px;
   width: 666px;
   padding: 20px;
   font-family: HelveticaNeue;
@@ -8,6 +20,7 @@
 }
 
 .Alert--1{
+  
   background-color: #e2eed8;
   color: #4b713d;
 }

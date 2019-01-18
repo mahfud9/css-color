@@ -1,5 +1,6 @@
 body {
-    font-family: 'Roboto';font-size: 22px;
+    font-family: 'Roboto';
+    font-size: 22px;
 }
 
 .Typography{
@@ -10,12 +11,10 @@ body {
 .heading{
   display: flex;
 }
-
-
 .h1 {
   width: 422px;
   height: 48px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 40px;
   font-weight: bold;
   line-height: 1.23;
@@ -25,7 +24,7 @@ body {
 .h2 {
   width: 337px;
   height: 38px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 32px;
   font-weight: bold;
   line-height: 1.22;
@@ -35,7 +34,7 @@ body {
 .h3 {
   width: 295px;
   height: 33px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 28px;
   font-weight: bold;
   line-height: 1.21;
@@ -45,7 +44,7 @@ body {
 .h4 {
   width: 253px;
   height: 28px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 24px;
   font-weight: bold;
   line-height: 1.21;
@@ -55,7 +54,7 @@ body {
 .h5 {
   width: 211px;
   height: 24px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 20px;
   font-weight: bold;
   line-height: 1.25;
@@ -65,7 +64,7 @@ body {
 .h6 {
   width: 169px;
   height: 19px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 16px;
   font-weight: bold;
   line-height: 1.19;
@@ -79,28 +78,52 @@ body {
   color: #818a91;
 }
 .paragraph{
+   width: 663px;
+  height: 64px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
   line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #373a3c;
+}
+.paragraph1{
+  width: 663px;
+  height: 64px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
   color: #373a3c;
 }
 .ul--default {
   color: #373a3c;
+  font-size: 15px;
 }
 .ul--circle {
   list-style-type: circle;
   color: #373a3c;
   margin-left: 45px;
-  margin-top: -22px;
+  margin-top: -13px;
+  font-size: 15px;
 }
  .Twiter{
   width: 186px;
   height: 163px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   text-align: left;
   color: #373a3c;
-  margin-left: 494px;
-  margin-top: -68px;
+  margin-left: 413px;
+  margin-top: -42px;
 }
 .Twiter-Inc{
   font-weight: bold;
@@ -109,14 +132,15 @@ body {
   color: #1c7cd5;
 }
 .display{
-  margin-left: 842px;
-  margin-top: -1000px;
+  margin-left: 834px;
+  margin-top: -881px;
 }
 .Display-1 {
   width: 395px;
   height: 111px;
   font-size: 96px;
   line-height: 1.19;
+
 }
 .Display-2 {
   width: 362px;
@@ -139,7 +163,7 @@ body {
 .Blackqueto {
  width: 623px;
   height: 58px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 20px;
   line-height: 1.5;
   letter-spacing: normal;
@@ -150,15 +174,15 @@ body {
 .line {
 
     border-left: 6px solid silver;
-    height: 118px;
+    height: 112px;
     margin-left: 842px;
-    margin-top: 154px;
+    margin-top: 118px;
 
 }
 .someone {
   width: 290px;
   height: 23px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 20px;
   line-height: 1.2;
   text-align: left;
@@ -169,7 +193,7 @@ body {
 .Blackqueto-1{
  width: 623px;
   height: 58px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 20px;
   font-weight: normal;
   font-style: normal;
@@ -190,7 +214,7 @@ body {
 .line-1 {
 
   border-left: 6px solid silver;
-  height: 118px;
+  height: 112px;
   margin-left: 594px;
   margin-top: -109px;
 
@@ -198,7 +222,7 @@ body {
 .someone-1 {
   width: 290px;
   height: 23px;
-  font-family: HelveticaNeue;
+  font-family: Roboto;
   font-size: 20px;
   line-height: 1.2;
   text-align: right;
@@ -213,4 +237,39 @@ body {
   margin-left:-58px; 
   margin-top:-10px;
 }
-
+/*.elit1 {
+  width: 190px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.13;
+  text-align: left;
+  color: #373a3c;
+}
+.elit2 {
+  width: 228px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 15px;
+  line-height: 1.13;
+  text-align: left;
+  color: #373a3c;
+}
+.elit3 {
+  width: 213px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 15px;
+  line-height: 1.13;
+  text-align: left;
+  color: #373a3c;
+}
+.elit4 {
+  width: 192px;
+  height: 18px;
+  font-family: roboto;
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: left;
+  color: #373a3c;
+}*/
