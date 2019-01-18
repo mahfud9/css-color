@@ -91,7 +91,7 @@
   color: #5c5c5c;
   margin-left: 10px;
 }
-.button {
+.Breadcrumb {
   width: 41px;
   height: 18px;
   font-family:Roboto;
@@ -105,7 +105,21 @@
   color: #5c5c5c;
   margin-left: 10px;
 }
-.Card {
+.Alert {
+  width: 28px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5c5c5c;
+  margin-left: 10px;
+}
+.Alertlarge {
   width: 28px;
   height: 18px;
   font-family: Roboto;
