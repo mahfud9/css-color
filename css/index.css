@@ -74,9 +74,11 @@
   height: 790px;
   border-radius: 4px;
   box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.05);
-   background-color: #ffffff;
+  background-color: #ffffff;
   margin-left: 275px;
-  margin-top: -849px;
+  margin-top: -857px;
+  padding-top: 32px;
+  padding-left: 41px;
 }
 .Typography {
   width: 71px;
