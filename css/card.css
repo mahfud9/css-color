@@ -1,3 +1,10 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #fafafa;
+}
+
 .card {
   border-color: #dddddd;
   width: 342px;
@@ -6,18 +13,33 @@
   margin-top: 65px;
   margin-left: 68px;
 }
+/*.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}*/
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 .card-img {
   width: 340px;
   height: 180px;
   background-color: #55595c;
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
 }
 .card-body {
   width: 340px;
   height: 215px;
   background-color: var(--white);
+   padding: 2px 16px;
 }
 .card-title {
-  height: 29px;
+  height: 0px;
   font-family: Roboto;
   font-size: 25px;
   font-weight: 500;
@@ -78,7 +100,7 @@
   width: 342px;
   height: auto;
   margin-left: 577px;
-margin-top: -860px;
+margin-top: -855px;
 }
 .card-body--1 {
   width: 340px;
@@ -91,7 +113,7 @@ margin-top: -860px;
   background-color: var(--white);
 }
 .card-header{
-  width: 340px;
+  width: 342px;
   height: 51px;
   background-color: #dddddd;
 }
@@ -100,7 +122,7 @@ margin-top: -860px;
 	height: 266px;
 }
 .card-footer {
-  width: 340px;
+  width: 342px;
   height: 51px;
   background-color: #dddddd;
 }

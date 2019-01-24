@@ -27,3 +27,15 @@ ul.breadcrumb li a:hover {
 .Data{
   color:#777777;
 }
+.sidebar-21 {
+  width: 1054px;
+  height: 790px;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.05);
+  background-color: #ffffff;
+  margin-left: 275px;
+  margin-top: -857px;
+  overflow-x: hidden;
+  padding-top: 32px;
+  padding-left: 41px;
+}

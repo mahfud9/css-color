@@ -1,8 +1,12 @@
+*{
+	box-sizing: border-box;
+}
 
 .row{
+	display: flex;
 	flex-wrap: wrap;
 	margin-right: 85px;
-	margin-left: 85px;
+	/*margin-left: 85px;*/
 }
 .col-1 {
   width: 8.3333333%;

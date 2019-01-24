@@ -1,12 +1,14 @@
-.flex-container {
+.square {
   display: flex;
   width: 100%;
 }
 
-.flex-container > div {
+.square > div {
   display: inline-block;
   width: 200px;
   height: 200px;
+  max-width: 200px;
+  max-height: 200px;
   margin: 10px;
   text-align: center;
   line-height: 75px;
@@ -46,13 +48,17 @@
 }
 .color--12 {
   background-color: #dcedf6;
+  border-color:#373a3c;
 }
 .color--13 {
   background-color: #e2eed8;
+  border:#373a3c;
 }
 .color--14 {
   background-color: #fcf7e4;
+  border:#373a3c;
 }
 .color--15 {
   background-color: #efdfdf;
+  border:#373a3c;
 }
