@@ -1,0 +1,17 @@
+.sidebar{
+	background: #fafafa;
+	width: 300px;
+	height: 100vh
+}
+.sidebar__nav{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	&--link{
+		text-decoration: none;
+		color: #333;
+		background: #f1f1f1;
+		padding: 15px;
+		display: block;
+	}
+}

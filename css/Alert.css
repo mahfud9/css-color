@@ -1,38 +1,33 @@
-.Alert {
+.alert {
   width: 515px;
   height: 18px;
   font-family: Roboto;
   font-size: 13px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
   line-height: 1.38;
-  letter-spacing: normal;
   text-align: left;
   color: #5c5c5c;
   margin-left: 10px;
   width: 666px;
   padding: 20px;
-  font-family: HelveticaNeue;
   line-height: 1.5;
   color: white;
   border-radius: 3px;
 }
 
-.Alert--1{
+.alert--1{
   
   background-color: #e2eed8;
   color: #4b713d;
 }
-.Alert--2{
+.alert--2{
   background-color: #dcedf6;
   color: #3d708d;
 }
-.Alert--3{
+.alert--3{
   background-color: #faf0ce;
   color: #876d40;
 }
-.Alert--4{
+.alert--4{
   background-color: #e7cecd;
   color: #9f4f48;
    }

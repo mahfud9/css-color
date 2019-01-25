@@ -39,3 +39,13 @@ ul.breadcrumb li a:hover {
   padding-top: 32px;
   padding-left: 41px;
 }
+.sidebar-10 {
+  width: 1054px;
+  height: 790px;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.05);
+  background-color: #ffffff;
+  margin-left: 275px;
+  margin-top: -857px;
+  overflow-x: hidden;
+}
