@@ -40,7 +40,7 @@ ul.breadcrumb li a:hover {
   padding-left: 41px;
 }
 .sidebar-10 {
-  width: 1054px;
+  width: 1011px;
   height: 790px;
   border-radius: 4px;
   box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.05);
@@ -48,4 +48,5 @@ ul.breadcrumb li a:hover {
   margin-left: 275px;
   margin-top: -857px;
   overflow-x: hidden;
+  padding: 20px;
 }
