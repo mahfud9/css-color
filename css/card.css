@@ -21,9 +21,9 @@ body{
 .card1:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }*/
-.card:hover {
+/*.card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
+}*/
 .card-img {
   width: 340px;
   height: 180px;
@@ -118,6 +118,8 @@ margin-top: -855px;
   width: 342px;
   height: 51px;
   background-color: #dddddd;
+  padding: 19px;
+  text-align: center;
 }
 .card--3{
 	margin-left: 581px;
@@ -127,10 +129,12 @@ margin-top: -855px;
   width: 342px;
   height: 51px;
   background-color: #dddddd;
+   padding: 18px;
+  text-align: center;
 }
 .card--4{
 	margin-left: 2px;
 }
-.list-group{
+.list-group-item{
   border: 1px solid #DCDCDC;
 }

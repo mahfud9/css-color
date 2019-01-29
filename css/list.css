@@ -1,22 +1,22 @@
-/*.list-group {
-  width: 1029px;
-  height: 1100px;
-  background-color: var(--white);
-}*/
-.list {
-  width: 252px;
-  height: 53px;
-  background-color: var(--white);
-  font-family: Roboto;
-  margin-top: 52px;
-  margin-left: 58px;
+*{
+  box-sizing: border-box;
+}
+
+.list{
+  margin-top: 37px;
+  margin-left: 10px;
+}
+.list-group{
+ list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 .list--1{
   width: 252px;
   height: 53px;
   background-color: var(--white);
   font-family: Roboto;
-  margin-top: -52px;
+  margin-top: -221px;
   margin-left: 379px;
 }
 .list--2{
@@ -42,4 +42,55 @@
   font-family: Roboto;
   margin-top: 155px;
   margin-left: 58px;
+}
+.list-group-item{
+   border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: white;
+  padding: 12px;
+  width: 252px;
+}
+.active{
+  background-color: #1c7cd5;
+  color: white;
+}
+.succes{
+  background-color: #e2eed8;
+  color: #3c763d;
+}
+.primary{
+  background-color: #dcedf6;
+  color: #31708f;
+}
+.warning{
+  background-color: #fcf7e4;
+  color: #8a6d3b;
+}
+.danger{
+  background-color: #efdfdf;
+  color: #a94442;
+}
+.list-group-item1 {
+  width: 319.2px;
+  height: 53px;
+  background-color: var(--white);
+}
+.badge-secondary{
+  color:#fff;
+  background-color: #777777;
+}
+.badge-pill{
+  padding-right: -6em;
+  padding-left: -6em;
+  border-radius: 10rem;
+}
+.badge{
+  display: inline-block;
+  padding: .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: right;
+  white-space: nowrap;
+  vertical-align: baseline;
 }
