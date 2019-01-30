@@ -34,7 +34,7 @@ body{
 }
 .card-body {
   width: 340px;
-  height: 215px;
+  height: 274px;
   background-color: var(--white);
    padding: 2px 16px;
   border:1px solid #DCDCDC;
@@ -71,7 +71,7 @@ body{
   background-color: #1c7cd5;
   margin-top: -10px;
 }
-.Card-link {
+.card-link {
   width: 63px;
   height: 18px;
   font-family: Roboto;
@@ -83,6 +83,7 @@ body{
   letter-spacing: normal;
   text-align: left;
   color: #1c7cd5;
+  text-decoration: none;
 }
 .card-subtitle {
   width: 100px;
@@ -121,6 +122,79 @@ margin-top: -855px;
   padding: 19px;
   text-align: center;
 }
+
+.card--2{
+  margin-left: 497px;
+  margin-top: -800px;
+  max-width: 340px;
+    max-height: 474px;
+    width: 100%;
+    
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.ul {
+  list-style-type: none;
+  padding: 0; 
+  margin: 0; 
+}
+
+.ul .li {
+  border: 1px solid #ddd; 
+  margin-top: -1px; 
+ 
+  padding: 12px; 
+}
+.card--2__link + .card--2__link {
+    margin-left: 1.25rem;
+}
+
+.card--2___subtitle{
+  width: 100px;
+  height: 21px;
+   
+  font-size: 17px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.24;
+  letter-spacing: normal;
+  text-align: left;
+  color: #777777;
+}
+.card--2__img{
+  max-height: 180px;
+  width: 100%;
+height: 180vh;
+background-color: #55595c;
+}
+.card--2__title{
+  width: 253px;
+  height: 29px;
+   
+  font-size: 25px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #373a3c;
+}
+
+.card--2__text{
+  width: 298px;
+  height: 69px;
+   
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #373a3c;
+}
 .card--3{
 	margin-left: 581px;
 	height: 266px;
@@ -136,5 +210,8 @@ margin-top: -855px;
 	margin-left: 2px;
 }
 .list-group-item{
+  width: 340px;
+  height: 162px;
+  background-color: var(--white);
   border: 1px solid #DCDCDC;
 }

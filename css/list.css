@@ -94,3 +94,79 @@
   white-space: nowrap;
   vertical-align: baseline;
 }
+.list-group-item9{
+   border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: white;
+  padding: 12px;
+  width: 310px;
+}
+.list--4 {
+  width: 400px;
+  height: 149px;
+  background-color: #1c7cd5;
+}
+.text {
+  width: 226px;
+  height: 24px;
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: left;
+  color: white;
+   padding-top: 18px;
+   margin-left: 17px;
+}
+.ago {
+  width: 69px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 1.25;
+  text-align: right;
+  color:white;
+  margin-left: 304px;
+  margin-top: -36px;
+
+}
+.title{
+  width: 360px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: white;
+  padding-top: 0px;
+   margin-left: 17px;
+}
+.title2 {
+  width: 165px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 1.14;
+  text-align: left;
+  color: white;
+  margin-left: 17px;
+}
+.list--43 {
+  width: 400px;
+  height: 149px;
+  background-color: white;
+   border: 1px solid #ddd;
+}
+.t--1{
+  color: black; 
+  margin-top: 0px;
+}
+.a--1{
+  color: black;
+}
+.t--2{
+  color: black;
+}
+.t--3{
+  color: black;
+}
