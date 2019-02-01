@@ -129,8 +129,7 @@ margin-top: -855px;
   max-width: 340px;
     max-height: 474px;
     width: 100%;
-    
-    border: 1px solid rgba(0,0,0,.125);
+   border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }
 .ul {
