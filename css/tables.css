@@ -38,7 +38,8 @@
   background-color: rgba(0, 0, 0, 0.15);
 }
 .table-dark,.table-striped tbody tr:nth-of-type(2n+1){
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: #373a3c;\
+  color: white;
 }
 .table-bordered td, .table-bodered th{
   border: 1px solid #dddddd;
